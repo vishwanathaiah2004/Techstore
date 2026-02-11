@@ -1,4 +1,4 @@
-# Next.js E-Commerce Application - Rendering Strategies Documentation
+# Next.js E-Commerce Application - Rendering Strategies Documentation.
 
 This document explains the different rendering strategies implemented in this e-commerce application and where each one is used.
 
